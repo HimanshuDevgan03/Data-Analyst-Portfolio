@@ -13,4 +13,4 @@ This interactive dashboard analyzes product sales performance using Power BI.
 - Images folder: Screenshots of the dashboard
 
 ## 📸 Dashboard Preview
-![dashboard preview](/Screenshot(87).png)
+![dashboard preview](screenshot.png)
